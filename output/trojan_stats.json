@@ -1,13 +1,13 @@
 {
   "total_source": 460,
   "unique": 411,
-  "alive": 53,
+  "alive": 55,
   "kept": 50,
   "regions": {
-    "OT": 43,
+    "OT": 42,
+    "KR": 3,
     "HK": 2,
     "JP": 1,
-    "KR": 2,
     "US": 1,
     "NL": 1
   }
