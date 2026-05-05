@@ -2,7 +2,7 @@ name: Filter Low-Latency Trojan Nodes
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 北京时间 9:00
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 permissions:
@@ -29,4 +29,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update filtered trojan nodes [${{ github.run_id }}]"
-          file_pattern: 'output/*.txt'
+          file_pattern: 'output/*.txt output/*.json'
