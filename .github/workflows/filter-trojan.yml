@@ -1,0 +1,32 @@
+name: Filter Low-Latency Trojan Nodes
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 每天北京时间 9:00 运行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run filter script
+        run: python scripts/filter_trojan.py
+
+      - name: Commit results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update filtered trojan nodes [$(date +%Y%m%d-%H%M)]"
+          file_pattern: 'output/*.txt'
