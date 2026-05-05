@@ -1,4 +1,4 @@
-name: Filter Low-Latency Trojan Nodes
+name: Filter Low-Latency Nodes
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -32,5 +32,5 @@ jobs:
       - name: Commit results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update filtered trojan nodes [${{ github.run_id }}]"
-          file_pattern: 'output/*.txt output/*.json'
+          commit_message: "Update filtered nodes [${{ github.run_id }}]"
+          file_pattern: 'output/*'
