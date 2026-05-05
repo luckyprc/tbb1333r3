@@ -20,10 +20,10 @@ SUB_URLS = [
     "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt",
 ]
 
-TIMEOUT = 5
+TIMEOUT = 3
 MAX_LATENCY_MS = 300
 MAX_KEEP = 50
-WORKERS = 20
+WORKERS = 50
 MIN_KEEP = 5
 # =============================================
 
