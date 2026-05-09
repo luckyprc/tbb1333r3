@@ -1,13 +1,14 @@
 {
-  "total_source": 605,
-  "unique": 501,
-  "alive": 103,
+  "total_source": 564,
+  "unique": 496,
+  "alive": 83,
   "kept": 50,
   "regions": {
-    "OT": 46,
+    "OT": 43,
+    "HK": 1,
     "KR": 2,
-    "JP": 1,
-    "HK": 1
+    "SG": 3,
+    "JP": 1
   },
   "types": {
     "trojan": 50

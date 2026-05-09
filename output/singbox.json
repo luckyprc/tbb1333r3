@@ -12,226 +12,70 @@
       "type": "selector",
       "tag": "proxy",
       "outbounds": [
-        "[OT] 28ms | ⚡ b2n.ir/v2ray-configs | 332",
-        "[OT] 29ms | ⚡ b2n.ir/v2ray-configs | 344",
-        "[OT] 30ms | ⚡ b2n.ir/v2ray-configs | 26",
-        "[OT] 30ms | ⚡ b2n.ir/v2ray-configs | 74",
-        "[OT] 30ms | ⚡ b2n.ir/v2ray-configs | 409",
-        "[OT] 31ms | ⚡ b2n.ir/v2ray-configs | 454",
-        "[OT] 31ms | ⚡ b2n.ir/v2ray-configs | 255",
-        "[OT] 32ms | ⚡ b2n.ir/v2ray-configs | 488",
-        "[OT] 32ms | ⚡ b2n.ir/v2ray-configs | 299",
-        "[OT] 33ms | ⚡ b2n.ir/v2ray-configs | 70",
-        "[OT] 34ms | ⚡ b2n.ir/v2ray-configs | 769",
-        "[OT] 35ms | ⚡ b2n.ir/v2ray-configs | 428",
-        "[OT] 35ms | ⚡ b2n.ir/v2ray-configs | 34",
-        "[OT] 40ms | ⚡ b2n.ir/v2ray-configs | 978",
-        "[OT] 49ms | ⚡ b2n.ir/v2ray-configs | 560",
-        "[OT] 49ms | ⚡ b2n.ir/v2ray-configs | 14",
-        "[KR] 51ms | ⚡ b2n.ir/v2ray-configs | 193",
-        "[OT] 52ms | ⚡ b2n.ir/v2ray-configs | 663",
-        "[OT] 60ms | ⚡ b2n.ir/v2ray-configs | 194",
-        "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 658",
-        "[OT] 66ms | ⚡ b2n.ir/v2ray-configs | 586",
-        "[OT] 76ms | ⚡ b2n.ir/v2ray-configs | 696",
-        "[OT] 82ms | ⚡ b2n.ir/v2ray-configs | 823",
-        "[OT] 94ms | ⚡ b2n.ir/v2ray-configs | 203",
-        "[OT] 98ms | ⚡ b2n.ir/v2ray-configs | 169",
-        "[OT] 150ms | ⚡ b2n.ir/v2ray-configs | 603",
-        "[JP] 159ms | ⚡ b2n.ir/v2ray-configs | 556",
-        "[OT] 160ms | ⚡ b2n.ir/v2ray-configs | 196",
-        "[OT] 161ms | ⚡ b2n.ir/v2ray-configs | 950",
-        "[OT] 162ms | ⚡ b2n.ir/v2ray-configs | 472",
-        "[OT] 163ms | ⚡ b2n.ir/v2ray-configs | 953",
-        "[OT] 164ms | ⚡ b2n.ir/v2ray-configs | 412",
-        "[HK] 166ms | ⚡ b2n.ir/v2ray-configs | 489",
-        "[OT] 177ms | ⚡ b2n.ir/v2ray-configs | 557",
-        "[OT] 179ms | ⚡ b2n.ir/v2ray-configs | 385",
-        "[OT] 181ms | ⚡ b2n.ir/v2ray-configs | 748",
-        "[OT] 187ms | ⚡ b2n.ir/v2ray-configs | 45",
-        "[OT] 187ms | ⚡ b2n.ir/v2ray-configs | 838",
-        "[OT] 188ms | ⚡ b2n.ir/v2ray-configs | 318",
-        "[OT] 191ms | ⚡ b2n.ir/v2ray-configs | 512",
-        "[OT] 194ms | ⚡ b2n.ir/v2ray-configs | 617",
-        "[OT] 196ms | ⚡ b2n.ir/v2ray-configs | 217",
-        "[KR] 198ms | ⚡ b2n.ir/v2ray-configs | 875",
-        "[OT] 201ms | ⚡ b2n.ir/v2ray-configs | 608",
-        "[OT] 202ms | ⚡ b2n.ir/v2ray-configs | 616",
-        "[OT] 206ms | ⚡ b2n.ir/v2ray-configs | 855",
-        "[OT] 206ms | ⚡ b2n.ir/v2ray-configs | 676",
-        "[OT] 207ms | ⚡ b2n.ir/v2ray-configs | 629",
-        "[OT] 208ms | ⚡ b2n.ir/v2ray-configs | 11",
-        "[OT] 209ms | ⚡ b2n.ir/v2ray-configs | 690"
+        "[OT] 60ms | ⚡ b2n.ir/v2ray-configs | 181",
+        "[OT] 61ms | ⚡ b2n.ir/v2ray-configs | 61",
+        "[OT] 61ms | ⚡ b2n.ir/v2ray-configs | 905",
+        "[OT] 61ms | ⚡ b2n.ir/v2ray-configs | 566",
+        "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 521",
+        "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 459",
+        "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 24",
+        "[OT] 64ms | ⚡ b2n.ir/v2ray-configs | 765",
+        "[OT] 64ms | ⚡ b2n.ir/v2ray-configs | 240",
+        "[OT] 64ms | ⚡ b2n.ir/v2ray-configs | 337",
+        "[OT] 66ms | ⚡ b2n.ir/v2ray-configs | 938",
+        "[OT] 71ms | ⚡ b2n.ir/v2ray-configs | 714",
+        "[OT] 71ms | ⚡ b2n.ir/v2ray-configs | 864",
+        "[OT] 74ms | ⚡ b2n.ir/v2ray-configs | 462",
+        "[OT] 76ms | ⚡ b2n.ir/v2ray-configs | 981",
+        "[OT] 78ms | ⚡ b2n.ir/v2ray-configs | 714",
+        "[OT] 80ms | ⚡ b2n.ir/v2ray-configs | 330",
+        "[OT] 81ms | ⚡ b2n.ir/v2ray-configs | 799",
+        "[OT] 85ms | ⚡ b2n.ir/v2ray-configs | 472",
+        "[OT] 89ms | ⚡ b2n.ir/v2ray-configs | 329",
+        "[HK] 90ms | ⚡ b2n.ir/v2ray-configs | 236",
+        "[OT] 94ms | ⚡ b2n.ir/v2ray-configs | 464",
+        "[OT] 95ms | ⚡ b2n.ir/v2ray-configs | 91",
+        "[OT] 99ms | ⚡ b2n.ir/v2ray-configs | 758",
+        "[OT] 101ms | ⚡ b2n.ir/v2ray-configs | 893",
+        "[OT] 104ms | ⚡ b2n.ir/v2ray-configs | 675",
+        "[OT] 104ms | ⚡ b2n.ir/v2ray-configs | 252",
+        "[OT] 107ms | ⚡ b2n.ir/v2ray-configs | 880",
+        "[OT] 112ms | ⚡ b2n.ir/v2ray-configs | 493",
+        "[OT] 113ms | ⚡ b2n.ir/v2ray-configs | 51",
+        "[OT] 115ms | ⚡ b2n.ir/v2ray-configs | 555",
+        "[KR] 118ms | ⚡ b2n.ir/v2ray-configs | 37",
+        "[OT] 120ms | ⚡ b2n.ir/v2ray-configs | 904",
+        "[OT] 125ms | ⚡ b2n.ir/v2ray-configs | 172",
+        "[KR] 125ms | ⚡ b2n.ir/v2ray-configs | 878",
+        "[OT] 136ms | ⚡ b2n.ir/v2ray-configs | 231",
+        "[OT] 136ms | ⚡ b2n.ir/v2ray-configs | 32",
+        "[OT] 137ms | ⚡ b2n.ir/v2ray-configs | 319",
+        "[SG] 140ms | ⚡ b2n.ir/v2ray-configs | 887",
+        "[OT] 141ms | ⚡ b2n.ir/v2ray-configs | 998",
+        "[OT] 145ms | ⚡ b2n.ir/v2ray-configs | 937",
+        "[OT] 157ms | ⚡ b2n.ir/v2ray-configs | 118",
+        "[OT] 170ms | ⚡ b2n.ir/v2ray-configs | 697",
+        "[OT] 191ms | ⚡ b2n.ir/v2ray-configs | 887",
+        "[OT] 199ms | ⚡ b2n.ir/v2ray-configs | 329",
+        "[SG] 209ms | ⚡ b2n.ir/v2ray-configs | 620",
+        "[JP] 249ms | ⚡ b2n.ir/v2ray-configs | 125",
+        "[OT] 260ms | ⚡ b2n.ir/v2ray-configs | 991",
+        "[SG] 264ms | ⚡ b2n.ir/v2ray-configs | 718",
+        "[OT] 264ms | ⚡ b2n.ir/v2ray-configs | 630"
       ],
-      "default": "[OT] 28ms | ⚡ b2n.ir/v2ray-configs | 332"
+      "default": "[OT] 60ms | ⚡ b2n.ir/v2ray-configs | 181"
     },
     {
       "type": "trojan",
-      "server": "160.153.0.253",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
+      "server": "64.94.95.118",
+      "server_port": 57142,
+      "password": "kkzh2prsyr2ik47as615",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
+        "server_name": "64.94.95.118",
         "insecure": false
       },
-      "tag": "[OT] 28ms | ⚡ b2n.ir/v2ray-configs | 332"
-    },
-    {
-      "type": "trojan",
-      "server": "72.167.230.253",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 29ms | ⚡ b2n.ir/v2ray-configs | 344"
-    },
-    {
-      "type": "trojan",
-      "server": "167.68.4.199",
-      "server_port": 2053,
-      "password": "Aimer",
-      "tls": {
-        "enabled": true,
-        "server_name": "epge.muarua.filegear-sg.me",
-        "insecure": false
-      },
-      "tag": "[OT] 30ms | ⚡ b2n.ir/v2ray-configs | 26"
-    },
-    {
-      "type": "trojan",
-      "server": "141.193.213.60",
-      "server_port": 443,
-      "password": "63752727-d49d-4975-a741-485ca9f4d995",
-      "tls": {
-        "enabled": true,
-        "server_name": "hfaw9h34.bpca2026.top",
-        "insecure": false
-      },
-      "tag": "[OT] 30ms | ⚡ b2n.ir/v2ray-configs | 74"
-    },
-    {
-      "type": "trojan",
-      "server": "178.156.148.4",
-      "server_port": 8443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 30ms | ⚡ b2n.ir/v2ray-configs | 409"
-    },
-    {
-      "type": "trojan",
-      "server": "172.67.180.92",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.multiplydose.com",
-        "insecure": false
-      },
-      "tag": "[OT] 31ms | ⚡ b2n.ir/v2ray-configs | 454"
-    },
-    {
-      "type": "trojan",
-      "server": "108.162.194.253",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 31ms | ⚡ b2n.ir/v2ray-configs | 255"
-    },
-    {
-      "type": "trojan",
-      "server": "104.18.32.47",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": false
-      },
-      "tag": "[OT] 32ms | ⚡ b2n.ir/v2ray-configs | 488"
-    },
-    {
-      "type": "trojan",
-      "server": "172.64.152.23",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.multiplydose.com",
-        "insecure": false
-      },
-      "tag": "[OT] 32ms | ⚡ b2n.ir/v2ray-configs | 299"
-    },
-    {
-      "type": "trojan",
-      "server": "172.67.174.196",
-      "server_port": 443,
-      "password": "bpb-trojan",
-      "tls": {
-        "enabled": true,
-        "server_name": "wing2452.nyc.mn",
-        "insecure": false
-      },
-      "tag": "[OT] 33ms | ⚡ b2n.ir/v2ray-configs | 70"
-    },
-    {
-      "type": "trojan",
-      "server": "104.18.11.110",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.multiplydose.com",
-        "insecure": false
-      },
-      "tag": "[OT] 34ms | ⚡ b2n.ir/v2ray-configs | 769"
-    },
-    {
-      "type": "trojan",
-      "server": "104.18.41.190",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "vless.lrdxw.club",
-        "insecure": false
-      },
-      "tag": "[OT] 35ms | ⚡ b2n.ir/v2ray-configs | 428"
-    },
-    {
-      "type": "trojan",
-      "server": "45.40.147.253",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 35ms | ⚡ b2n.ir/v2ray-configs | 34"
-    },
-    {
-      "type": "trojan",
-      "server": "104.19.174.68",
-      "server_port": 443,
-      "password": "63752727-d49d-4975-a741-485ca9f4d995",
-      "tls": {
-        "enabled": true,
-        "server_name": "px8r9i1b4k.bpusfaster2.top",
-        "insecure": false
-      },
-      "tag": "[OT] 40ms | ⚡ b2n.ir/v2ray-configs | 978"
+      "tag": "[OT] 60ms | ⚡ b2n.ir/v2ray-configs | 181"
     },
     {
       "type": "trojan",
@@ -243,7 +87,19 @@
         "server_name": "0o3vr2n5k2.bpuk2026.top",
         "insecure": false
       },
-      "tag": "[OT] 49ms | ⚡ b2n.ir/v2ray-configs | 560"
+      "tag": "[OT] 61ms | ⚡ b2n.ir/v2ray-configs | 61"
+    },
+    {
+      "type": "trojan",
+      "server": "104.21.12.87",
+      "server_port": 443,
+      "password": "0b65bb06-6b28-487a-8e3c-820dda51e977",
+      "tls": {
+        "enabled": true,
+        "server_name": "series-v1.samanehha.co",
+        "insecure": false
+      },
+      "tag": "[OT] 61ms | ⚡ b2n.ir/v2ray-configs | 905"
     },
     {
       "type": "trojan",
@@ -255,71 +111,35 @@
         "server_name": "www.multiplydose.com",
         "insecure": false
       },
-      "tag": "[OT] 49ms | ⚡ b2n.ir/v2ray-configs | 14"
+      "tag": "[OT] 61ms | ⚡ b2n.ir/v2ray-configs | 566"
     },
     {
       "type": "trojan",
-      "server": "kr2.sanfen001.pics",
-      "server_port": 443,
-      "password": "8800c518-e68a-4441-a45c-cd67855784c8",
-      "tls": {
-        "enabled": true,
-        "server_name": "kr1.sanfen001.pics",
-        "insecure": false
-      },
-      "tag": "[KR] 51ms | ⚡ b2n.ir/v2ray-configs | 193"
-    },
-    {
-      "type": "trojan",
-      "server": "27.50.49.253",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 52ms | ⚡ b2n.ir/v2ray-configs | 663"
-    },
-    {
-      "type": "trojan",
-      "server": "www.ignitelimit.com",
+      "server": "104.18.11.110",
       "server_port": 443,
       "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "www.ignitelimit.com",
+        "server_name": "www.multiplydose.com",
         "insecure": false
       },
-      "tag": "[OT] 60ms | ⚡ b2n.ir/v2ray-configs | 194"
+      "tag": "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 521"
     },
     {
       "type": "trojan",
-      "server": "series-v1.samanehha.co",
+      "server": "104.19.174.68",
       "server_port": 443,
-      "password": "0b65bb06-6b28-487a-8e3c-820dda51e977",
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
       "tls": {
         "enabled": true,
-        "server_name": "series-v1.samanehha.co",
+        "server_name": "px8r9i1b4k.bpusfaster2.top",
         "insecure": false
       },
-      "tag": "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 658"
+      "tag": "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 459"
     },
     {
       "type": "trojan",
-      "server": "77.110.109.7",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 66ms | ⚡ b2n.ir/v2ray-configs | 586"
-    },
-    {
-      "type": "trojan",
-      "server": "107.172.190.151",
+      "server": "50.62.172.253",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -327,11 +147,47 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 76ms | ⚡ b2n.ir/v2ray-configs | 696"
+      "tag": "[OT] 62ms | ⚡ b2n.ir/v2ray-configs | 24"
     },
     {
       "type": "trojan",
-      "server": "142.252.220.13",
+      "server": "167.68.4.199",
+      "server_port": 2053,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "epge.muarua.filegear-sg.me",
+        "insecure": false
+      },
+      "tag": "[OT] 64ms | ⚡ b2n.ir/v2ray-configs | 765"
+    },
+    {
+      "type": "trojan",
+      "server": "104.19.173.68",
+      "server_port": 443,
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
+      "tls": {
+        "enabled": true,
+        "server_name": "px8r9i1b4k.bpusfaster2.top",
+        "insecure": false
+      },
+      "tag": "[OT] 64ms | ⚡ b2n.ir/v2ray-configs | 240"
+    },
+    {
+      "type": "trojan",
+      "server": "172.67.180.92",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.multiplydose.com",
+        "insecure": false
+      },
+      "tag": "[OT] 64ms | ⚡ b2n.ir/v2ray-configs | 337"
+    },
+    {
+      "type": "trojan",
+      "server": "50.62.194.253",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -339,35 +195,35 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 82ms | ⚡ b2n.ir/v2ray-configs | 823"
+      "tag": "[OT] 66ms | ⚡ b2n.ir/v2ray-configs | 938"
     },
     {
       "type": "trojan",
-      "server": "38.107.232.53",
-      "server_port": 8443,
-      "password": "8r<[9'l6hAO#8ZQi",
+      "server": "141.193.213.107",
+      "server_port": 443,
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
+        "server_name": "31eacogyh9.bpsg2026.top",
         "insecure": false
       },
-      "tag": "[OT] 94ms | ⚡ b2n.ir/v2ray-configs | 203"
+      "tag": "[OT] 71ms | ⚡ b2n.ir/v2ray-configs | 714"
     },
     {
       "type": "trojan",
-      "server": "31.172.79.138",
-      "server_port": 2083,
-      "password": "8r<[9'l6hAO#8ZQi",
+      "server": "188.114.96.3",
+      "server_port": 443,
+      "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
+        "server_name": "www.calmlunch.com",
         "insecure": false
       },
-      "tag": "[OT] 98ms | ⚡ b2n.ir/v2ray-configs | 169"
+      "tag": "[OT] 71ms | ⚡ b2n.ir/v2ray-configs | 864"
     },
     {
       "type": "trojan",
-      "server": "128.14.66.165",
+      "server": "64.181.255.215",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -375,35 +231,11 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 150ms | ⚡ b2n.ir/v2ray-configs | 603"
+      "tag": "[OT] 74ms | ⚡ b2n.ir/v2ray-configs | 462"
     },
     {
       "type": "trojan",
-      "server": "jp2.sanfen001.pics",
-      "server_port": 443,
-      "password": "8800c518-e68a-4441-a45c-cd67855784c8",
-      "tls": {
-        "enabled": true,
-        "server_name": "jp1.sanfen001.pics",
-        "insecure": false
-      },
-      "tag": "[JP] 159ms | ⚡ b2n.ir/v2ray-configs | 556"
-    },
-    {
-      "type": "trojan",
-      "server": "77.247.126.137",
-      "server_port": 443,
-      "password": "3ac6a6ca99f74941b1eaf892818e2ddb",
-      "tls": {
-        "enabled": true,
-        "server_name": "77.247.126.137",
-        "insecure": false
-      },
-      "tag": "[OT] 160ms | ⚡ b2n.ir/v2ray-configs | 196"
-    },
-    {
-      "type": "trojan",
-      "server": "192.18.136.255",
+      "server": "64.44.157.80",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -411,35 +243,23 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 161ms | ⚡ b2n.ir/v2ray-configs | 950"
+      "tag": "[OT] 76ms | ⚡ b2n.ir/v2ray-configs | 981"
     },
     {
       "type": "trojan",
-      "server": "165.232.54.102",
-      "server_port": 2087,
-      "password": "8r<[9'l6hAO#8ZQi",
+      "server": "104.18.32.47",
+      "server_port": 443,
+      "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
+        "server_name": "www.calmlunch.com",
         "insecure": false
       },
-      "tag": "[OT] 162ms | ⚡ b2n.ir/v2ray-configs | 472"
+      "tag": "[OT] 78ms | ⚡ b2n.ir/v2ray-configs | 714"
     },
     {
       "type": "trojan",
-      "server": "165.227.26.242",
-      "server_port": 2096,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 163ms | ⚡ b2n.ir/v2ray-configs | 953"
-    },
-    {
-      "type": "trojan",
-      "server": "163.192.47.40",
+      "server": "184.169.181.217",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -447,7 +267,43 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 164ms | ⚡ b2n.ir/v2ray-configs | 412"
+      "tag": "[OT] 80ms | ⚡ b2n.ir/v2ray-configs | 330"
+    },
+    {
+      "type": "trojan",
+      "server": "134.199.216.96",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 81ms | ⚡ b2n.ir/v2ray-configs | 799"
+    },
+    {
+      "type": "trojan",
+      "server": "198.204.227.171",
+      "server_port": 2053,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 85ms | ⚡ b2n.ir/v2ray-configs | 472"
+    },
+    {
+      "type": "trojan",
+      "server": "165.22.130.178",
+      "server_port": 2053,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 89ms | ⚡ b2n.ir/v2ray-configs | 329"
     },
     {
       "type": "trojan",
@@ -459,47 +315,95 @@
         "server_name": "hk2.sanfen001.pics",
         "insecure": false
       },
-      "tag": "[HK] 166ms | ⚡ b2n.ir/v2ray-configs | 489"
+      "tag": "[HK] 90ms | ⚡ b2n.ir/v2ray-configs | 236"
     },
     {
       "type": "trojan",
-      "server": "157.245.181.20",
-      "server_port": 2053,
+      "server": "77.247.126.137",
+      "server_port": 443,
+      "password": "3ac6a6ca99f74941b1eaf892818e2ddb",
+      "tls": {
+        "enabled": true,
+        "server_name": "77.247.126.137",
+        "insecure": false
+      },
+      "tag": "[OT] 94ms | ⚡ b2n.ir/v2ray-configs | 464"
+    },
+    {
+      "type": "trojan",
+      "server": "38.180.193.194",
+      "server_port": 443,
+      "password": "c1d83c0c7d57cead4379ba14a82df69b",
+      "tls": {
+        "enabled": true,
+        "server_name": "38.180.193.194",
+        "insecure": false
+      },
+      "tag": "[OT] 95ms | ⚡ b2n.ir/v2ray-configs | 91"
+    },
+    {
+      "type": "trojan",
+      "server": "141.193.213.60",
+      "server_port": 443,
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
+      "tls": {
+        "enabled": true,
+        "server_name": "hfaw9h34.bpca2026.top",
+        "insecure": false
+      },
+      "tag": "[OT] 99ms | ⚡ b2n.ir/v2ray-configs | 758"
+    },
+    {
+      "type": "trojan",
+      "server": "199.34.230.253",
+      "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 177ms | ⚡ b2n.ir/v2ray-configs | 557"
+      "tag": "[OT] 101ms | ⚡ b2n.ir/v2ray-configs | 893"
     },
     {
       "type": "trojan",
-      "server": "57.128.165.222",
+      "server": "172.64.152.23",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.gossipglove.com",
+        "insecure": false
+      },
+      "tag": "[OT] 104ms | ⚡ b2n.ir/v2ray-configs | 675"
+    },
+    {
+      "type": "trojan",
+      "server": "23.27.245.194",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 104ms | ⚡ b2n.ir/v2ray-configs | 252"
+    },
+    {
+      "type": "trojan",
+      "server": "v1.dabache.top",
       "server_port": 8443,
-      "password": "8r<[9'l6hAO#8ZQi",
+      "password": "T9BpZIVMNv",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
+        "server_name": "sweden.vmaxpanel.com",
         "insecure": false
       },
-      "tag": "[OT] 179ms | ⚡ b2n.ir/v2ray-configs | 385"
+      "tag": "[OT] 107ms | ⚡ b2n.ir/v2ray-configs | 880"
     },
     {
       "type": "trojan",
-      "server": "185.44.76.188",
-      "server_port": 443,
-      "password": "8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272",
-      "tls": {
-        "enabled": true,
-        "server_name": "185.44.76.188",
-        "insecure": false
-      },
-      "tag": "[OT] 181ms | ⚡ b2n.ir/v2ray-configs | 748"
-    },
-    {
-      "type": "trojan",
-      "server": "137.220.33.177",
+      "server": "77.110.127.237",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -507,11 +411,11 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 187ms | ⚡ b2n.ir/v2ray-configs | 45"
+      "tag": "[OT] 112ms | ⚡ b2n.ir/v2ray-configs | 493"
     },
     {
       "type": "trojan",
-      "server": "148.135.100.229",
+      "server": "173.230.151.159",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -519,23 +423,47 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 187ms | ⚡ b2n.ir/v2ray-configs | 838"
+      "tag": "[OT] 113ms | ⚡ b2n.ir/v2ray-configs | 51"
     },
     {
       "type": "trojan",
-      "server": "132.145.51.172",
+      "server": "75.127.12.19",
       "server_port": 443,
-      "password": "02e653c9-7c93-46a9-999d-11834bd0c577",
+      "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "132.145.51.172",
+        "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 188ms | ⚡ b2n.ir/v2ray-configs | 318"
+      "tag": "[OT] 115ms | ⚡ b2n.ir/v2ray-configs | 555"
     },
     {
       "type": "trojan",
-      "server": "195.200.16.192",
+      "server": "kr2.sanfen001.pics",
+      "server_port": 443,
+      "password": "8800c518-e68a-4441-a45c-cd67855784c8",
+      "tls": {
+        "enabled": true,
+        "server_name": "kr1.sanfen001.pics",
+        "insecure": false
+      },
+      "tag": "[KR] 118ms | ⚡ b2n.ir/v2ray-configs | 37"
+    },
+    {
+      "type": "trojan",
+      "server": "series-v1.samanehha.co",
+      "server_port": 443,
+      "password": "0b65bb06-6b28-487a-8e3c-820dda51e977",
+      "tls": {
+        "enabled": true,
+        "server_name": "series-v1.samanehha.co",
+        "insecure": false
+      },
+      "tag": "[OT] 120ms | ⚡ b2n.ir/v2ray-configs | 904"
+    },
+    {
+      "type": "trojan",
+      "server": "80.209.242.70",
       "server_port": 2053,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -543,31 +471,7 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 191ms | ⚡ b2n.ir/v2ray-configs | 512"
-    },
-    {
-      "type": "trojan",
-      "server": "138.124.81.204",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 194ms | ⚡ b2n.ir/v2ray-configs | 617"
-    },
-    {
-      "type": "trojan",
-      "server": "185.52.0.84",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 196ms | ⚡ b2n.ir/v2ray-configs | 217"
+      "tag": "[OT] 125ms | ⚡ b2n.ir/v2ray-configs | 172"
     },
     {
       "type": "trojan",
@@ -579,47 +483,23 @@
         "server_name": "nearby-muskrat.rooster465.autos",
         "insecure": false
       },
-      "tag": "[KR] 198ms | ⚡ b2n.ir/v2ray-configs | 875"
+      "tag": "[KR] 125ms | ⚡ b2n.ir/v2ray-configs | 878"
     },
     {
       "type": "trojan",
-      "server": "108.61.171.167",
+      "server": "194.33.45.157",
       "server_port": 443,
-      "password": "mainssh-niwrhf87",
+      "password": "3ac6a6ca99f74941b1eaf892818e2ddb",
       "tls": {
         "enabled": true,
-        "server_name": "getgrpc.mainssh.xyz",
+        "server_name": "194.33.45.157",
         "insecure": false
       },
-      "tag": "[OT] 201ms | ⚡ b2n.ir/v2ray-configs | 608"
+      "tag": "[OT] 136ms | ⚡ b2n.ir/v2ray-configs | 231"
     },
     {
       "type": "trojan",
-      "server": "95.164.62.196",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      },
-      "tag": "[OT] 202ms | ⚡ b2n.ir/v2ray-configs | 616"
-    },
-    {
-      "type": "trojan",
-      "server": "51.38.99.96",
-      "server_port": 443,
-      "password": "b8808043-6566-4923-9195-e66bfb553d57",
-      "tls": {
-        "enabled": true,
-        "server_name": "ba24.ir",
-        "insecure": false
-      },
-      "tag": "[OT] 206ms | ⚡ b2n.ir/v2ray-configs | 855"
-    },
-    {
-      "type": "trojan",
-      "server": "91.221.190.80",
+      "server": "128.1.190.67",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -627,23 +507,59 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 206ms | ⚡ b2n.ir/v2ray-configs | 676"
+      "tag": "[OT] 136ms | ⚡ b2n.ir/v2ray-configs | 32"
     },
     {
       "type": "trojan",
-      "server": "141.94.76.177",
-      "server_port": 443,
-      "password": "6e3b4240-38f9-4321-9b3c-bc669a34b848",
+      "server": "45.150.65.54",
+      "server_port": 2053,
+      "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "141.94.76.177",
+        "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 207ms | ⚡ b2n.ir/v2ray-configs | 629"
+      "tag": "[OT] 137ms | ⚡ b2n.ir/v2ray-configs | 319"
     },
     {
       "type": "trojan",
-      "server": "91.221.191.120",
+      "server": "csgo.com",
+      "server_port": 443,
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
+      "tls": {
+        "enabled": true,
+        "server_name": "lx2hz55sqjviknho.bper2026.top",
+        "insecure": false
+      },
+      "tag": "[SG] 140ms | ⚡ b2n.ir/v2ray-configs | 887"
+    },
+    {
+      "type": "trojan",
+      "server": "167.71.169.92",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 141ms | ⚡ b2n.ir/v2ray-configs | 998"
+    },
+    {
+      "type": "trojan",
+      "server": "174.138.60.204",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 145ms | ⚡ b2n.ir/v2ray-configs | 937"
+    },
+    {
+      "type": "trojan",
+      "server": "172.66.44.230",
       "server_port": 8443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -651,19 +567,103 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 208ms | ⚡ b2n.ir/v2ray-configs | 11"
+      "tag": "[OT] 157ms | ⚡ b2n.ir/v2ray-configs | 118"
     },
     {
       "type": "trojan",
-      "server": "95.169.192.234",
-      "server_port": 8443,
+      "server": "207.246.122.197",
+      "server_port": 2053,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       },
-      "tag": "[OT] 209ms | ⚡ b2n.ir/v2ray-configs | 690"
+      "tag": "[OT] 170ms | ⚡ b2n.ir/v2ray-configs | 697"
+    },
+    {
+      "type": "trojan",
+      "server": "91.149.239.206",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      },
+      "tag": "[OT] 191ms | ⚡ b2n.ir/v2ray-configs | 887"
+    },
+    {
+      "type": "trojan",
+      "server": "ca-trojan.bonds.id",
+      "server_port": 443,
+      "password": "bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "server_name": "ca-trojan.bonds.id",
+        "insecure": false
+      },
+      "tag": "[OT] 199ms | ⚡ b2n.ir/v2ray-configs | 329"
+    },
+    {
+      "type": "trojan",
+      "server": "www.visa.com.sg",
+      "server_port": 2087,
+      "password": "NsRNdbS7x2",
+      "tls": {
+        "enabled": true,
+        "server_name": "welfare-1.yycx.eu.org",
+        "insecure": false
+      },
+      "tag": "[SG] 209ms | ⚡ b2n.ir/v2ray-configs | 620"
+    },
+    {
+      "type": "trojan",
+      "server": "jp2.sanfen001.pics",
+      "server_port": 443,
+      "password": "8800c518-e68a-4441-a45c-cd67855784c8",
+      "tls": {
+        "enabled": true,
+        "server_name": "jp1.sanfen001.pics",
+        "insecure": false
+      },
+      "tag": "[JP] 249ms | ⚡ b2n.ir/v2ray-configs | 125"
+    },
+    {
+      "type": "trojan",
+      "server": "51.158.146.183",
+      "server_port": 443,
+      "password": "f6a0a650-306e-11ee-b692-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "server_name": "Speedtest.net",
+        "insecure": false
+      },
+      "tag": "[OT] 260ms | ⚡ b2n.ir/v2ray-configs | 991"
+    },
+    {
+      "type": "trojan",
+      "server": "sg083yt.cloudflare.182682.xyz",
+      "server_port": 443,
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
+      "tls": {
+        "enabled": true,
+        "server_name": "31eacogyh9.bpsg2026.top",
+        "insecure": false
+      },
+      "tag": "[SG] 264ms | ⚡ b2n.ir/v2ray-configs | 718"
+    },
+    {
+      "type": "trojan",
+      "server": "cajeoha.cloudflare.182682.xyz",
+      "server_port": 443,
+      "password": "63752727-d49d-4975-a741-485ca9f4d995",
+      "tls": {
+        "enabled": true,
+        "server_name": "hfaw9h34.bpca2026.top",
+        "insecure": false
+      },
+      "tag": "[OT] 264ms | ⚡ b2n.ir/v2ray-configs | 630"
     }
   ]
 }
