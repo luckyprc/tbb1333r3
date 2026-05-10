@@ -1,0 +1,38 @@
+name: Daily Multi-Source Convert + Probe + Export
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 北京时间 10:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run multi-source converter
+        run: python convert.py
+
+      - name: Commit and push outputs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "update: $(date +%Y%m%d%H%M) | multi-source daily"
+            git push
+          fi
