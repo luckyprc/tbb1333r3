@@ -32,42 +32,6 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.233",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國節點",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "美國節點",
-      "server": "82.198.246.9",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "aes-128-gcm"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.233",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
       "server": "82.198.246.9",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
@@ -77,42 +41,6 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.214",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.214",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.9",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.9",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "德國",
       "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
@@ -149,7 +77,7 @@
     {
       "type": "vmess",
       "tag": "美國節點",
-      "server": "82.198.246.214",
+      "server": "82.198.246.9",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -158,25 +86,7 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.250",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "美國",
-      "server": "82.198.246.9",
+      "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -193,8 +103,89 @@
     },
     {
       "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.9",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
       "tag": "美國",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.250",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國節點",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.9",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "德國",
+      "server": "82.198.246.233",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
       "server": "82.198.246.214",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "🇬🇧 GB英國",
+      "server": "82.198.246.9",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "美國",
+      "server": "82.198.246.9",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -220,7 +211,61 @@
     },
     {
       "type": "vmess",
+      "tag": "美國節點",
+      "server": "82.198.246.214",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "aes-128-gcm"
+    },
+    {
+      "type": "vmess",
       "tag": "英國節點",
+      "server": "82.198.246.214",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.233",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.214",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.233",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "美國",
       "server": "82.198.246.214",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
@@ -247,24 +292,6 @@
     },
     {
       "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
       "tag": "🇬🇧 GB英國",
       "server": "82.198.246.233",
       "server_port": 180,
@@ -284,7 +311,16 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.233",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.250",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -309,40 +345,20 @@
       "security": "auto"
     },
     {
-      "type": "vmess",
-      "tag": "🇬🇧 GB英國",
-      "server": "82.198.246.9",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.233",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "美國",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.250",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
+      "type": "trojan",
+      "tag": "美國節點丨yoyapai.com",
+      "server": "yespaintstudio.rav-kraski.ru",
+      "server_port": 50824,
+      "password": "7aXwJPnpAJ",
+      "tls": {
+        "enabled": true,
+        "server_name": "yespaintstudio.rav-kraski.ru",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "type": "trojan",
@@ -362,13 +378,57 @@
     },
     {
       "type": "trojan",
-      "tag": "美國節點丨yoyapai.com",
-      "server": "yespaintstudio.rav-kraski.ru",
-      "server_port": 50824,
-      "password": "7aXwJPnpAJ",
+      "tag": "🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司",
+      "server": "166.62.104.253",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi"
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸_US_美国",
+      "server": "ohio1.ap221.com",
+      "server_port": 443,
+      "uuid": "3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07",
       "tls": {
         "enabled": true,
-        "server_name": "yespaintstudio.rav-kraski.ru",
+        "server_name": "ohio.ap221.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇳 中国 阿里云",
+      "server": "8.223.63.189",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国 CCZZUU.TOP",
+      "server": "149.104.26.24",
+      "server_port": 21123,
+      "password": "8r<[9'l6hAO#8ZQi"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 德国 CCZZUU.TOP",
+      "server": "194.233.68.198",
+      "server_port": 8443,
+      "password": "8r<[9'l6hAO#8ZQi"
+    },
+    {
+      "type": "vless",
+      "tag": "🇷🇺_RU_俄罗斯->🇫🇮_FI_芬兰",
+      "server": "serv18.strettenvpn.com",
+      "server_port": 443,
+      "uuid": "2d01ee96-14b7-46eb-b612-e7f1ee91a823",
+      "tls": {
+        "enabled": true,
+        "server_name": "splitter.wb.ru",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -378,82 +438,35 @@
     },
     {
       "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 3",
-      "server": "82.198.246.214",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
+      "tag": "🇹🇼_TW_中国台湾",
+      "server": "v13.zgtfqs.click",
+      "server_port": 30813,
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "alter_id": 2,
       "security": "auto"
     },
     {
-      "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 2",
-      "server": "82.198.246.214",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 7",
-      "server": "82.198.246.250",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 4",
-      "server": "82.198.246.9",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 5",
-      "server": "82.198.246.214",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 8",
-      "server": "82.198.246.97",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
+      "type": "vless",
       "tag": "🇺🇸_US_美国",
-      "server": "82.198.246.9",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "trojan",
-      "tag": "🇵🇱 波兰 CCZZUU.TOP",
-      "server": "bb.bejkn.cn",
-      "server_port": 11233,
-      "password": "BxceQaOe"
+      "server": "ciallo-egb.pages.dev",
+      "server_port": 2053,
+      "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+      "transport": {
+        "type": "ws",
+        "path": "/%2F",
+        "headers": {
+          "Host": "Ciallo-eGB.PageS.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Ciallo-eGB.PageS.dev",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "type": "vmess",
@@ -463,6 +476,22 @@
       "uuid": "009e558d-3cf4-49d8-b5e4-82c9e14fe1a4",
       "alter_id": 0,
       "security": "auto"
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱_NL_荷兰",
+      "server": "georg.sbrf-cdn342.ru",
+      "server_port": 443,
+      "uuid": "7bd29cac-f692-48a3-88d1-505f7e55f0d0",
+      "tls": {
+        "enabled": true,
+        "server_name": "sub.sbrf-cdn342.ru",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "type": "vmess",
@@ -484,77 +513,117 @@
     },
     {
       "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 6",
-      "server": "v30.hdacd.com",
-      "server_port": 30830,
+      "tag": "🇲🇾_MY_马来西亚",
+      "server": "v9.hdacd.com",
+      "server_port": 30809,
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "alter_id": 0,
+      "alter_id": 2,
       "security": "auto"
     },
     {
+      "type": "vless",
+      "tag": "🇷🇺_RU_俄罗斯",
+      "server": "195.209.88.180",
+      "server_port": 443,
+      "uuid": "5a478129-3e7e-Fade-99d7-95e1da14fbdc",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "s28233.cdn.ngenix.net"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "s28233.cdn.ngenix.net",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      }
+    },
+    {
       "type": "vmess",
-      "tag": "🇬🇧 英国 CCZZUU.TOP 9",
-      "server": "82.198.246.250",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "tag": "🇭🇰_HK_中国香港",
+      "server": "n1753101277.4u9ma.icu",
+      "server_port": 443,
+      "uuid": "6ea48dfe-7de2-45dc-9267-d4d9effad9fc",
       "alter_id": 0,
-      "security": "auto"
+      "security": "auto",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "n1753101277.4u9ma.icu"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "n1753101277.4u9ma.icu",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
         "英國",
-        "英國節點",
-        "美國節點",
         "英國",
-        "英國",
-        "英國",
-        "英國",
-        "英國",
-        "英國",
-        "德國",
         "美國",
         "🇬🇧 英國",
         "英國",
         "美國節點",
         "英國",
-        "英國",
-        "美國",
         "美國節點",
-        "美國",
-        "英國",
-        "英國節點",
-        "英國節點",
         "英國",
         "美國",
         "英國",
+        "英國",
+        "英國節點",
+        "英國",
+        "德國",
         "英國",
         "🇬🇧 GB英國",
+        "美國",
+        "英國",
+        "英國節點",
+        "美國節點",
+        "英國節點",
+        "英國",
+        "英國",
+        "英國",
+        "英國",
+        "美國",
+        "英國",
+        "美國",
+        "🇬🇧 GB英國",
+        "英國",
         "英國",
         "英國",
         "德國",
         "德國",
-        "🇬🇧 GB英國",
-        "英國",
-        "美國",
-        "英國",
-        "🇫🇷 FR法國丨yoyapai.com",
         "美國節點丨yoyapai.com",
-        "🇬🇧 英国 CCZZUU.TOP 3",
-        "🇬🇧 英国 CCZZUU.TOP 2",
-        "🇬🇧 英国 CCZZUU.TOP 7",
-        "🇬🇧 英国 CCZZUU.TOP 4",
-        "🇬🇧 英国 CCZZUU.TOP",
-        "🇬🇧 英国 CCZZUU.TOP 5",
-        "🇬🇧 英国 CCZZUU.TOP 8",
+        "🇫🇷 FR法國丨yoyapai.com",
+        "🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司",
         "🇺🇸_US_美国",
-        "🇵🇱 波兰 CCZZUU.TOP",
+        "🇨🇳 中国 阿里云",
+        "🇺🇸 美国 CCZZUU.TOP",
+        "🇩🇪 德国 CCZZUU.TOP",
+        "🇷🇺_RU_俄罗斯->🇫🇮_FI_芬兰",
+        "🇹🇼_TW_中国台湾",
+        "🇺🇸_US_美国",
         "8元老牌专线机场：cczzuu.top",
+        "🇳🇱_NL_荷兰",
         "英國節點",
         "美國節點",
-        "🇬🇧 英国 CCZZUU.TOP 6",
-        "🇬🇧 英国 CCZZUU.TOP 9"
+        "🇲🇾_MY_马来西亚",
+        "🇷🇺_RU_俄罗斯",
+        "🇭🇰_HK_中国香港"
       ],
       "url": "http://www.google.com/generate_204",
       "interval": "1m",
