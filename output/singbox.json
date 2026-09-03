@@ -31,30 +31,21 @@
     },
     {
       "type": "vmess",
-      "tag": "英國",
-      "server": "82.198.246.233",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "美國",
-      "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
       "tag": "美國",
       "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
       "security": "aes-128-gcm"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國節點",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
     },
     {
       "type": "vmess",
@@ -67,8 +58,8 @@
     },
     {
       "type": "vmess",
-      "tag": "英國節點",
-      "server": "82.198.246.37",
+      "tag": "英國",
+      "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -104,6 +95,15 @@
     {
       "type": "vmess",
       "tag": "英國",
+      "server": "82.198.246.37",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "美國",
       "server": "82.198.246.37",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
@@ -217,6 +217,13 @@
       "password": "humanity"
     },
     {
+      "type": "trojan",
+      "tag": "🇺🇸 美国 Akamai科技公司CDN网络节点",
+      "server": "172.236.220.10",
+      "server_port": 443,
+      "password": "s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui"
+    },
+    {
       "type": "vless",
       "tag": "🇬🇧 英国 starcorenode.com",
       "server": "31.76.113.51",
@@ -300,15 +307,15 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "英國",
         "美國",
-        "美國",
-        "德國",
         "英國節點",
+        "德國",
+        "英國",
         "🇬🇧 英國",
         "英國",
         "英國",
         "英國",
+        "美國",
         "英國",
         "美國",
         "英國",
@@ -321,6 +328,7 @@
         "英國",
         "德國",
         "🇺🇸 美国 CloudFlare节点",
+        "🇺🇸 美国 Akamai科技公司CDN网络节点",
         "🇬🇧 英国 starcorenode.com",
         "🇺🇸_US_美国",
         "🇹🇭_TH_泰国",
