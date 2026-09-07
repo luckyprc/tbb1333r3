@@ -67,8 +67,26 @@
     },
     {
       "type": "vmess",
+      "tag": "德國",
+      "server": "82.198.246.233",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
       "tag": "英國",
       "server": "82.198.246.233",
+      "server_port": 180,
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
+      "tag": "英國",
+      "server": "82.198.246.250",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -86,25 +104,7 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.250",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "英國",
       "server": "82.198.246.37",
-      "server_port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
-      "tag": "德國",
-      "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -131,7 +131,7 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.37",
+      "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -140,7 +140,7 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.233",
+      "server": "82.198.246.37",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -167,7 +167,7 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.233",
+      "server": "82.198.246.37",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -176,7 +176,7 @@
     {
       "type": "vmess",
       "tag": "英國",
-      "server": "82.198.246.37",
+      "server": "82.198.246.233",
       "server_port": 180,
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
       "alter_id": 0,
@@ -311,11 +311,11 @@
         "英國節點",
         "美國",
         "🇬🇧 英國",
+        "德國",
+        "英國",
         "英國",
         "美國",
         "英國",
-        "英國",
-        "德國",
         "英國",
         "美國",
         "英國",
