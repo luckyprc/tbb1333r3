@@ -54,6 +54,15 @@
     },
     {
       "type": "vmess",
+      "tag": "🇭🇰_HK_中国香港->🇹🇼_TW_中国台湾",
+      "server": "world.t.51guangtaobao.com",
+      "server_port": 2512,
+      "uuid": "1d3d868e-ae7b-3762-b9d9-a7f267494c7e",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
+      "type": "vmess",
       "tag": "🇭🇰_HK_中国香港",
       "server": "v10.hdacd.com",
       "server_port": 30807,
@@ -85,6 +94,7 @@
       "outbounds": [
         "🇺🇸 美国 CloudFlare节点",
         "🇹🇭_TH_泰国",
+        "🇭🇰_HK_中国香港->🇹🇼_TW_中国台湾",
         "🇭🇰_HK_中国香港",
         "美國節點",
         "英國節點"
