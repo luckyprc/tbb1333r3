@@ -61,15 +61,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰_HK_中国香港->🇹🇼_TW_中国台湾",
-      "server": "world.t.51guangtaobao.com",
-      "server_port": 2512,
-      "uuid": "1d3d868e-ae7b-3762-b9d9-a7f267494c7e",
-      "alter_id": 0,
-      "security": "auto"
-    },
-    {
-      "type": "vmess",
       "tag": "🇭🇰_HK_中国香港",
       "server": "v10.hdacd.com",
       "server_port": 30807,
@@ -79,10 +70,10 @@
     },
     {
       "type": "vmess",
-      "tag": "美國節點",
-      "server": "v30.hdacd.com",
-      "server_port": 30830,
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "tag": "🇭🇰_HK_中国香港->🇹🇼_TW_中国台湾",
+      "server": "world.t.51guangtaobao.com",
+      "server_port": 2512,
+      "uuid": "1d3d868e-ae7b-3762-b9d9-a7f267494c7e",
       "alter_id": 0,
       "security": "auto"
     },
@@ -96,16 +87,25 @@
       "security": "auto"
     },
     {
+      "type": "vmess",
+      "tag": "美國節點",
+      "server": "v30.hdacd.com",
+      "server_port": 30830,
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "alter_id": 0,
+      "security": "auto"
+    },
+    {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
         "🇺🇸 美国 CloudFlare节点",
         "🇬🇧 英国 starcorenode.com",
         "🇹🇭_TH_泰国",
-        "🇭🇰_HK_中国香港->🇹🇼_TW_中国台湾",
         "🇭🇰_HK_中国香港",
-        "美國節點",
-        "英國節點"
+        "🇭🇰_HK_中国香港->🇹🇼_TW_中国台湾",
+        "英國節點",
+        "美國節點"
       ],
       "url": "http://www.google.com/generate_204",
       "interval": "1m",
